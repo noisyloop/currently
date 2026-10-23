@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Current",
+      "hasCanvas": false,
+      "bodyTextLen": 2262,
+      "bodyTextHash": "bfc738be2b2f264aab680ce85b4f6a2dc1e2da711892f85392d4d732dc8d4e9a",
+      "bodyTextPrefix": "CURRENT Instinct-class rack desk $1.71/hr 1 GPU · tight WORKLOAD",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Current",
+      "hasCanvas": false,
+      "bodyTextLen": 2262,
+      "bodyTextHash": "bfc738be2b2f264aab680ce85b4f6a2dc1e2da711892f85392d4d732dc8d4e9a",
+      "bodyTextPrefix": "CURRENT Instinct-class rack desk $1.71/hr 1 GPU · tight WORKLOAD",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
