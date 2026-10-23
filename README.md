@@ -8,7 +8,9 @@ Prompts are often short and casual — read intent generously and ship a
 **Depth lives in `.grok/references/*.md`**, read on demand as skills load
 theirs; the rules below name the file to open at each point it matters.
 
----
+<p align="center">
+  <img src="https://githubusercontent.com" alt="Project Screenshot">
+</p>
 
 ## Skills (in `.grok/skills/` — consult BEFORE building)
 
